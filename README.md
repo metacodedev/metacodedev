@@ -2,5 +2,6 @@
 
 Are you user nerd? Open terminal and paste this command: curl https://metacodedev.com/meta/metacodedev.txt
 
-![metacodedev](https://user-images.githubusercontent.com/101935789/159124417-55ab8518-359b-48b3-b6de-bdaed36209bb.png)
+![metalogotype](https://user-images.githubusercontent.com/101935789/177047709-2ab6eda4-f0af-4a15-8cfa-23b6492324c1.png)
+
 
